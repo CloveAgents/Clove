@@ -1,4 +1,4 @@
-# CLOVE AGENTS 🤖
+## CLOVE AGENTS 🤖
 
 **Autonomous Agents Platform for Workflow Automation & Customer Engagement**
 
@@ -8,17 +8,17 @@ A powerful, no-code/low-code platform that enables businesses to create, deploy,
 
 ## 📋 Table of Contents
 
-- [Overview](# overview)
-- [Features](# features)
-- [Tech Stack](# tech-stack)
-- [Architecture](# architecture)
-- [Getting Started](# getting-started)
-- [Project Phases](# project-phases)
-- [Dependencies](# dependencies)
-- [Risk Management](# risk-management)
-- [Team & Contributing](# team--contributing)
-- [Roadmap](# roadmap)
-- [License](# license)
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Architecture](#architecture)
+- [Getting Started](#getting-started)
+- [Project Phases](#project-phases)
+- [Dependencies](#dependencies)
+- [Risk Management](#risk-management)
+- [Team & Contributing](#team--contributing)
+- [Roadmap](#roadmap)
+- [License](#license)
 
 ---
 
@@ -712,7 +712,7 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file
 
 ---
 
-**Last Updated**: June 2024  
+**Last Updated**: June 2026  
 **Status**: MVP Development Phase 1  
 **Version**: 1.0.0
 
