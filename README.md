@@ -4,6 +4,8 @@
 
 A powerful, no-code/low-code platform that enables businesses to create, deploy, and manage autonomous AI agents without complex coding. CLOVE AGENTS simplifies workflow automation, customer support, and business process automation through an intuitive visual interface.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8d4b1f36-74d3-4337-b7c5-5d974a01fa1e" />
+
 ---
 
 ## 📋 Table of Contents
@@ -132,12 +134,12 @@ IaC:             Terraform
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                      CLOVE AGENTS Platform                       │
+│                      CLOVE AGENTS Platform                      │
 └─────────────────────────────────────────────────────────────────┘
 
 ┌─────────────┐         ┌──────────────────┐         ┌────────────┐
 │   Frontend  │         │   API Gateway    │         │  Admin UI  │
-│  (React)    │────────▶│   (FastAPI)      │◀────────│  (React)   │
+│  (React)    │────────▶│   (FastAPI)      │◀────────│  (React)  │
 └─────────────┘         └──────────────────┘         └────────────┘
                                │
                 ┌──────────────┼──────────────┐
@@ -150,7 +152,7 @@ IaC:             Terraform
                 │              │              │
          ┌──────▼──────────────▼──────────────▼───────┐
          │         Task Queue (Redis/Celery)          │
-         └────────────┬────────────────┬───────────────┘
+         └────────────┬────────────────┬──────────────┘
                       │                │
          ┌────────────▼─┐  ┌──────────▼─────────┐
          │  Data Store  │  │  Logging & Events  │
