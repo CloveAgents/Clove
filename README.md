@@ -8,17 +8,17 @@ A powerful, no-code/low-code platform that enables businesses to create, deploy,
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Architecture](#architecture)
-- [Getting Started](#getting-started)
-- [Project Phases](#project-phases)
-- [Dependencies](#dependencies)
-- [Risk Management](#risk-management)
-- [Team & Contributing](#team--contributing)
-- [Roadmap](#roadmap)
-- [License](#license)
+- [Overview](# overview)
+- [Features](# features)
+- [Tech Stack](# tech-stack)
+- [Architecture](# architecture)
+- [Getting Started](# getting-started)
+- [Project Phases](# project-phases)
+- [Dependencies](# dependencies)
+- [Risk Management](# risk-management)
+- [Team & Contributing](# team--contributing)
+- [Roadmap](# roadmap)
+- [License](# license)
 
 ---
 
